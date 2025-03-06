@@ -15,4 +15,5 @@ Using stemming is not a good practice while we working a project like chatbot or
 
 
 ## Lemmatization
+ A Lemmatizer is cnsists of dictionary we can specify the POS(noun(n),verb(v),adverb(r), adjective(d))
   -  Wordnet Lemmatizer
