@@ -21,3 +21,4 @@ Using stemming is not a good practice while we working a project like chatbot or
 
 ## Text Processing and Stopwords
   - Used Stemming and Lemmatization in a paragraph and saw the results and find out that Lemmatization is gives better results
+
