@@ -23,4 +23,7 @@ Using stemming is not a good practice while we working a project like chatbot or
   - Used Stemming and Lemmatization in a paragraph and saw the results and find out that Lemmatization is gives better results
 
 ## Parts of speech tagging 
-  -  a process that labels each word in a text with its grammatical category
+  -  a process that labels each word in a text with its grammatical category (pos_tag)
+
+## Name Entity Recognition 
+  - identifies and classifies entities like people, organizations, and locations within text, often utilizing Part-of-Speech (POS) tagging as a crucial preprocessing step (pos_tag.draw())
