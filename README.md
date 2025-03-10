@@ -30,8 +30,8 @@ Using stemming is not a good practice while we working a project like chatbot or
 
 ## Different Encoding 
  The process of converting text into a format that computers can understand. This is done by representing words as numbers or vectors. 
-  a) - One Hot Encoding
-  b) - Bag Of Words
+   - One Hot Encoding
+   - Bag Of Words
       - Binary Bag Words ( 0, 1)
       - Normal Bag of Words ( Count will get updated based on frequency )
-  c) - IF-IDF( Term Frequency - Inverse Doccument Frequency )
+   - IF-IDF( Term Frequency - Inverse Doccument Frequency )
