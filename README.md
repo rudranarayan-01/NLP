@@ -27,3 +27,8 @@ Using stemming is not a good practice while we working a project like chatbot or
 
 ## Name Entity Recognition 
   - identifies and classifies entities like people, organizations, and locations within text, often utilizing Part-of-Speech (POS) tagging as a crucial preprocessing step (pos_tag.draw())
+
+## Encoding 
+  - One Hot Encoding
+  - Bag Of Words
+  - IF-IDF( Term Frequency - Inverse Doccument Frequency )
