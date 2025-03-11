@@ -60,5 +60,5 @@ Using stemming is not a good practice while we working a project like chatbot or
   Cosine Similarity: Angle between two vectors
 
   # CBOW : Fully Connected Neural Network
-   widow = 5, IP, OP, OHE 
+   window = 5, IP, OP, OHE 
   
