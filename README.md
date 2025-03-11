@@ -38,12 +38,13 @@ Using stemming is not a good practice while we working a project like chatbot or
 
 ## Word Embeding 
    In NLP word embeding is a term used for the representation of words for text analysis, typically in the form of real valued vector that encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar meaning.
+   
    Word Embeding is of two types: 
-     - Count or Frequency
+    - Count or Frequency
        - One Hot Encoding
        - Bag of Words
        - IF_IDF
-      - Deep Learning Training Model (Word2Vec)
+    - Deep Learning Training Model (Word2Vec)
         - CBOW ( Continous Bag of Words )
         - Skipgram
 
