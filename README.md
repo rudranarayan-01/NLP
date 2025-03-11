@@ -52,4 +52,13 @@ Using stemming is not a good practice while we working a project like chatbot or
 
 
   
-       
+  ## Deep Learning Training Model (Word2Vec):
+  Word2Vec is developed by Google in 2013, follows Neural Network
+  - Recognise Synnonyms
+  - Suggest Additional Words
+
+  Cosine Similarity: Angle between two vectors
+
+  # CBOW : Fully Connected Neural Network
+   widow = 5, IP, OP, OHE 
+  
