@@ -62,3 +62,6 @@ Using stemming is not a good practice while we working a project like chatbot or
   # CBOW : Fully Connected Neural Network
    window = 5, IP, OP, OHE 
   
+## Skipgram
+ Small Dataset -> CBOW
+ Large Dataset -> Skipgram
